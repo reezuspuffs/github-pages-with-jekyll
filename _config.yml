@@ -9,4 +9,4 @@ twitter_username: REEZUSPUFFS # DO NOT include the @ character, or else the buil
 github_username:  reezuspuffs # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: portfolyou-jekyll-theme
