@@ -1,3 +1,1 @@
-# Reza Shamshad
-
 Graphic Designer, Music and Video Producer ...
